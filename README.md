@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=2000&color=58A6FF&center=true&vCenter=true&width=1000&lines=%F0%9F%91%8B+Hey%2C+I'm+Matthew." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=54&pause=2500&color=58A6FF&center=true&vCenter=true&width=1400&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Matthew." />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A9B1D6&center=true&vCenter=true&width=1000&lines=Design.;Urbanism.;Physics.;Circuit+Design.;Artificial+Intelligence.;Python+Development.;Building+CityFix.;Telegram+Bots.;Whatever+you+need." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1200&color=A9B1D6&center=true&vCenter=true&width=1400&height=70&lines=Designing+Cities.;Studying+Physics.;Building+AI+Projects.;Creating+Telegram+Bots.;Exploring+Electronics.;Turning+Ideas+Into+Reality." />
 </p>
+
 
 ## Статистика
 
