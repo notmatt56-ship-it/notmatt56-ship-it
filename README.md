@@ -1,6 +1,6 @@
-# Привет 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Design+%26+Urbanism;Physics+%26+Circuit+Design;Hardware+%26+Code;Urban+Tech+Prototyping" />
+  <b>Hi, I'm Matthew.</b> Need help with urbanism, hardware, or schematics?<br>
+  <i>I've got you covered.</i>
 </p>
 ## Статистика
 
