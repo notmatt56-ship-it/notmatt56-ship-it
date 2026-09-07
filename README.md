@@ -3,7 +3,7 @@
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1200&color=A9B1D6&left=true&vCenter=true&width=1400&height=70&lines=Exploring+Cities.;Studying+Physics.;Building+AI+Projects.;Creating+Telegram+Bots.;Designing+PCBs." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1200&color=A9B1D6&left=true&vCenter=true&width=1400&height=70&lines=;Studying+Physics.;Designing+PCBs." />
 </p>
 
 <p align="left">
